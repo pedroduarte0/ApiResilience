@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ApiServer\\ApiServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ApiClient\\ApiClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
